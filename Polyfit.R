@@ -3,8 +3,7 @@ rm(list = ls())
 cat("\014")
 
 #Install / Load Essentials
-packages = c("ggplot2","shiny")
-memory.size(max = T)
+packages = c("shiny")
 
 ## Now load or install&load all
 package.check <- lapply(
@@ -16,7 +15,6 @@ package.check <- lapply(
     }
   }
 )
-
 
 
 ui <- fluidPage(
