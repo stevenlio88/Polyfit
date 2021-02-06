@@ -1,3 +1,7 @@
+install.packages("shiny")
+library(shiny)
+
+#Server File for Polyfit App
 function(input, output,session) {
   #observeEvent(input$plot,{
   
