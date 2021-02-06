@@ -1,3 +1,4 @@
+#UI File for Polyfit App
 fluidPage(
   titlePanel("Visualize Polyfit"),
   sidebarLayout(
