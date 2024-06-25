@@ -12,5 +12,5 @@ library(shiny)
 Then run the following:  
 runGitHub("Polyfit","stevenlio88")
 
-
+![](https://komarev.com/ghpvc/?username=stevenlio88&color=grey)
 
