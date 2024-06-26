@@ -1,10 +1,14 @@
 # Polyfit 〰️
 
 Interactive tool for visualizing curve fitting using polynomials using R Shiny.  
-Here is the app: [Polyfit](https://stevenlio.shinyapps.io/polyfit/)
-This is created for the blog on [Medium](https://medium.com/analytics-vidhya/polynomial-regression-%EF%B8%8F-e0e20bfbe9d5)
+
+This is originally created for the article about Polynomial Regression on [Medium](https://medium.com/@stevenlio/polynomial-regression-%EF%B8%8F-e0e20bfbe9d5)
+
+You can find the project page [here](https://stevenlio88.github.io/Portfolio/projects/polyfit/)
 
 ![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*Ody0Ez0-VYDRF6eomVYJeg.gif)
+
+[Launch App](https://stevenlio.shinyapps.io/polyfit/)
 
 ---
 ## Details:
